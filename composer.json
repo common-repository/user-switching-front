@@ -1,0 +1,15 @@
+{
+	"name"       : "tweetpressfr/user-switching-front",
+	"description": "WordPress plugin that allows to use the wonderful plugin User switching directly from front-end by using admin bar.",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-3.0+",
+	"authors"    : [
+		{
+			"name"    : "Julien Maury",
+			"homepage": "https://tweetpress.fr/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}

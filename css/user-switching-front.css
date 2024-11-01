@@ -1,0 +1,6 @@
+#wpadminbar .user-switching-front .ab-sub-wrapper{
+    min-height: 200px!important;
+    max-height: 400px!important;
+    overflow-x:hidden;
+    overflow-y: auto !important;
+}
